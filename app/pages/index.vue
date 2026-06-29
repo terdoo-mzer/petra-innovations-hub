@@ -109,13 +109,13 @@ const projects = [
       <HeroBackground />
       <div class="relative z-10 max-w-container mx-auto px-6 py-24">
         <!-- Badge -->
-        <div class="inline-flex items-center gap-2.5 px-4 py-2 rounded-full border border-white/[0.1] bg-white/[0.04] mb-10">
+        <!-- <div class="inline-flex items-center gap-2.5 px-4 py-2 rounded-full border border-white/[0.1] bg-white/[0.04] mb-10">
           <span
             class="w-2 h-2 rounded-full bg-[#3B6FFF]"
             style="animation: dot-blink 2s ease-in-out infinite"
           />
           <span class="text-[13px] font-medium text-text-muted">Now accepting new projects — Q3 2025</span>
-        </div>
+        </div> -->
 
         <!-- H1 -->
         <h1
