@@ -124,6 +124,7 @@ const steps = [
 
               <button
                 type="submit"
+                :disabled="true"
                 class="w-full bg-blue-primary hover:bg-blue-dark text-white py-4 rounded-xl text-[16px] font-semibold transition-colors"
               >
                 Send Message →
@@ -163,7 +164,7 @@ const steps = [
                   <div>
                     <div class="text-[12px] text-text-faint mb-0.5">Phone</div>
                     <a href="tel:+12125550100" class="text-text-muted hover:text-text-primary text-[14px] transition-colors">
-                      +1 (212) 555-0100
+                      +234 8064901390
                     </a>
                   </div>
                 </div>
@@ -176,7 +177,7 @@ const steps = [
                   </div>
                   <div>
                     <div class="text-[12px] text-text-faint mb-0.5">Office</div>
-                    <p class="text-text-muted text-[14px]">350 Fifth Avenue, New York, NY</p>
+                    <p class="text-text-muted text-[14px]">34, Chief Yesufu Abiodun, Oniru Lagos</p>
                   </div>
                 </div>
               </div>
